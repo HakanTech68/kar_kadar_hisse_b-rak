@@ -1,0 +1,1 @@
+# kar_kadar_hisse_b-rak
