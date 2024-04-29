@@ -1,1 +1,3 @@
-# kar_kadar_hisse_b-rak
+elde edilen kar kadar hisseyi stokta bırakır.
+Yatırım tavsiyesi içermez. Eğitim amaçlıdır.
+https://x.com/hakan_teknik_el
